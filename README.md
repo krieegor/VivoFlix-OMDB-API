@@ -7,8 +7,9 @@ O Objetivo da aplicação é permitir que o usuário navegue com as setas do tec
 
 
 
-Tecnologias utilizadas:
-Angular 8
-Materialize css
-HTML, CSS, JS, Jquery & Json,
-Gerenciamento de pacotes Npm
+### Tecnologias utilizadas:
+- Angular 8
+- Materialize css
+- HTML, CSS, JS, Jquery & Json,
+- Gerenciamento de pacotes Npm
+
